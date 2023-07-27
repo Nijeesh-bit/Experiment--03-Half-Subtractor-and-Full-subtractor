@@ -42,13 +42,19 @@ RegisterNumber:
 ## Output:
 
 ## Truthtable
+### Half Subtractor
+<img width="196" alt="image" src="https://github.com/Nijeesh-bit/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/89188014/95076b0b-5482-45e4-bbfd-de417b129f81">
 
 
 
 ##  RTL realization
-
+### Half Subtractor
+![asdfgh](https://github.com/Nijeesh-bit/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/89188014/6e2ccff2-eb07-4266-94ad-05bee41c37b8)
 
 ## Timing diagram 
+### Half subtractor
+![qwerty](https://github.com/Nijeesh-bit/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/89188014/ab1c6f32-9d9c-400f-a64e-1037754538cb)
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
