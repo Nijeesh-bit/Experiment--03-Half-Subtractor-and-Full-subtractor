@@ -1,4 +1,4 @@
-# Experiment-03 Half Subtractor and Full subtractor
+# Experiment-04 Half Subtractor and Full subtractor
 #### Name: Nijeesh NJ
 #### Register number: 23010565
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
