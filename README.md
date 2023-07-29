@@ -57,6 +57,16 @@ Diff = A ⊕ B ⊕ C B = A'C + A'B + BC
 
 
 ## Program:
+#### HALF SUBTRACTOR PROGRAM
+```
+module halfsub(diff,carry,a,b);
+input a,b;
+output diff,carry;
+xor(diff,a,b);
+assign carry=(~a)&b;
+endmodule
+```
+#### FULL SUBTRACTOR PROGRAM
 ```
 module fullsub(diff,carry,a,b,c);
 input a,b,c;
