@@ -1,7 +1,7 @@
 # Experiment-04 Half Subtractor and Full subtractor
 #### Name: Nijeesh NJ
 #### Register number: 23010565
-## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
+
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
@@ -51,7 +51,7 @@ Diff = A ⊕ B ⊕ C B = A'C + A'B + BC
 6. Verification:
    - Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF".
    - Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All.
-   - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
+   - Give the Input Combinations according to the Truth Table and then simulate the Output Waveform.
 
 
 
